@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "923167909870",
+    "firebase_url": "https://incoflexmoveis-7401a.firebaseio.com",
+    "project_id": "incoflexmoveis-7401a",
+    "storage_bucket": "incoflexmoveis-7401a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923167909870:android:bc487260e9c27e1a",
+        "android_client_info": {
+          "package_name": "incoflexmoveis.cursoandroid.com.incoflexmoveis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923167909870-edb9dih8cq5vmh2sspeeb6au6q2gu91t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "incoflexmoveis.cursoandroid.com.incoflexmoveis",
+            "certificate_hash": "c04fea3cbb3ce619cb2b3c0951e1a1c8554f9c10"
+          }
+        },
+        {
+          "client_id": "923167909870-9193lers60mbo8cvrg9lvk03hj4tb5pn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7868zVjUYZSDrLNDfntJOw37zVnCR4qM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923167909870-9193lers60mbo8cvrg9lvk03hj4tb5pn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
